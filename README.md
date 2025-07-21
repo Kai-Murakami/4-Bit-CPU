@@ -1,2 +1,4 @@
-# linux-test
-# test1
+4-bit CPU 
+
+Made using verilog
+
